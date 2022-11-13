@@ -1,0 +1,16 @@
+.marks-section td:first-child{
+  width:10px;
+}
+.marks-section table{
+  width:100%;
+}
+.marks-section td{
+  text-align: center;
+  width: fit-content;
+}
+.marks-section{
+padding: 20px;
+}
+.marks-section p{
+  margin-top: 10px;
+}
