@@ -1,0 +1,28 @@
+.coeffs-section{
+  margin-left: 10px;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+.table-div table{
+  border-collapse: collapse;
+  padding: 5px;
+
+}
+.table-div td{
+  padding: 5px;
+  width: 12%;
+}
+.table-div td:first-child{
+  width:30%;
+}
+.table-div input{
+  border:none;
+  outline: none;
+  background-color: transparent;
+  width: 100%;
+  text-align: center;
+}
+
+.table-div tr:nth-child(2n){
+  background-color: #EAEAEA;
+}
