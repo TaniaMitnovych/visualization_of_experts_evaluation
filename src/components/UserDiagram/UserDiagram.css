@@ -1,0 +1,16 @@
+#user{
+  width:100vh;
+  height: 80vh;
+}
+.user-diagram td{
+  text-align: center;
+}
+.user-diagram td:first-child{
+  text-align: left;
+}
+.user-diagram table{
+  width: 50%;
+}
+.user-diagram{
+  display: flex;
+}
