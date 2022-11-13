@@ -1,0 +1,16 @@
+.criteria-section td:first-child{
+  width:10px;
+}
+.criteria-section table{
+  width:100%;
+}
+.criteria-section td{
+  text-align: center;
+  width: fit-content;
+}
+.criteria-section{
+padding: 20px;
+}
+.criteria-section td:nth-child(2){
+  text-align: left;
+}
