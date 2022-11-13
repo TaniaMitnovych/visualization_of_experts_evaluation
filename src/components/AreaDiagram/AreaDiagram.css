@@ -1,0 +1,16 @@
+#area{
+  width:100vh;
+  height: 80vh;
+}
+.area-diagram td{
+  text-align: center;
+}
+.area-diagram td:first-child{
+  text-align: left;
+}
+.area-diagram table{
+  width: 50%;
+}
+.area-diagram{
+  display: flex;
+}
