@@ -1,0 +1,16 @@
+#usability{
+  width:100vh;
+  height: 80vh;
+}
+.usability-diagram td{
+  text-align: center;
+}
+.usability-diagram td:first-child{
+  text-align: left;
+}
+.usability-diagram table{
+  width: 50%;
+}
+.usability-diagram{
+  display: flex;
+}
