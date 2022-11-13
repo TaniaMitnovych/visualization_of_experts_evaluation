@@ -1,0 +1,16 @@
+#programming{
+  width:100vh;
+  height: 80vh;
+}
+.programming-diagram td{
+  text-align: center;
+}
+.programming-diagram td:first-child{
+  text-align: left;
+}
+.programming-diagram table{
+  width: 50%;
+}
+.programming-diagram{
+  display: flex;
+}
