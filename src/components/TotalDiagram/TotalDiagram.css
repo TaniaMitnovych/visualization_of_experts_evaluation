@@ -1,0 +1,17 @@
+#total{
+  width:100vh;
+  height: 80vh;
+}
+.total-diagram td{
+  text-align: center;
+}
+.total-diagram td:first-child{
+  text-align: left;
+}
+.total-diagram table{
+  width: 50%;
+}
+.total-diagram{
+  display: flex;
+  justify-content: center;
+}
